@@ -22,7 +22,8 @@ c .. : retorna ao diretório anterior
 rmdir : exclui pastas
 [ctrl] l : limpa o terminal git bash
 git status : verifica as condições do arquivos e se é necessário "trakear" caso haja arquivos novos ou alterados localmente
-git add : Adiciona arquivos "unstage" para comitar.
+git add . : Adiciona todos os arquivos "unstage" para comitar.
+git add -a: Adiciona arquivo específico "unstage" para comitar.
 
 OBJETOS GIT
 
