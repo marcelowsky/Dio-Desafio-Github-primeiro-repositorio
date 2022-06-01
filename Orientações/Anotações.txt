@@ -1,0 +1,50 @@
+Git - Github
+
+Link para download do Git: https://git-scm.com/download/win
+
+Git bash é um terminal extendido para otimizar o uso do Git
+ 
+Programa de versionamento de Código
+
+MarkDown: Editor de páginas HTML  
+Download: http://markdownpad.com/download.html
+
+Typora: Editor para Markdown
+Download: https://typora.io/
+
+
+Comandos básicos
+
+Dir : Relaciona pastas e diretórios
+cd / : Entra no diretório
+mkdir : cria pasta no local escolhido
+c .. : retorna ao diretório anterior
+rmdir : exclui pastas
+[ctrl] l : limpa o terminal git bash
+git status : verifica as condições do arquivos e se é necessário "trakear" caso haja arquivos novos ou alterados localmente
+git add : Adiciona arquivos "unstage" para comitar.
+
+OBJETOS GIT
+
+COMMITS - TREES - BLOBS 
+
+
+
+COMITAR ARQUIVOS
+
+Criar via terminal uma pasta (livro-receitas)
+ 
+Iniciar os comandos para que o Git comece a gerenciar os arquivos
+ 
+Configurar as credenciais GIT (User name e email)
+ 
+Criar um arquivo Markdown (tipo md)
+ 
+Criar via Typora (reader do Markdown) Texto de sua preferência.
+ 
+
+Comitar o arquivo (commit)
+ 			
+
+
+
