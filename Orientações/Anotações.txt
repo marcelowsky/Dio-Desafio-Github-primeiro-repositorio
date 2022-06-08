@@ -21,10 +21,13 @@ mkdir : cria pasta no local escolhido
 c .. : retorna ao diretório anterior
 rmdir : exclui pastas
 [ctrl] l : limpa o terminal git bash
+
+git clone: Clona a pasta criada no GitHube para a máquina
 git status : verifica as condições do arquivos e se é necessário "trakear" caso haja arquivos novos ou alterados localmente
 git add . : Adiciona todos os arquivos "unstage" para comitar.
 git add -a: Adiciona arquivo específico "unstage" para comitar.
-
+git push origin main: Empurra para o Git os arquivos
+git pull: baixa do git os arquivos e atualizam com a versão local
 OBJETOS GIT
 
 COMMITS - TREES - BLOBS 
@@ -45,7 +48,4 @@ Criar via Typora (reader do Markdown) Texto de sua preferência.
  
 
 Comitar o arquivo (commit)
- 			
-
-
 
